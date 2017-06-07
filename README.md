@@ -1,4 +1,4 @@
-# DelozApp---Copy
+# ToDo app
 Reactjs
 TODO app
 
